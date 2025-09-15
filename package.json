@@ -4,8 +4,8 @@
 	"version": "0.1.3 DEV",
 	"description": "Funkin Packer",
 	"type": "module",
-	"url": "https://neeeoo.github.io/funkin-packer/",
-	"webApp": "https://neeeoo.github.io/funkin-packer/",
+	"url": "https://kolzeyt.github.io/funkin-packer/",
+	"webApp": "https://kolzeyt.github.io/funkin-packer/",
 	"main": "src/api/FunkinPackerApi.ts",
 	"private": true,
 	"localizations": [
@@ -17,7 +17,7 @@
 	],
 	"contributors": [
 		{
-			"name": "Ne_Eo",
+			"name": "LOSER",
 			"homepage": "https://github.com/NeeEoo",
 			"role": "Developer"
 		}
@@ -80,14 +80,14 @@
 		"sprite",
 		"2d"
 	],
-	"author": "NeeEoo",
+	"author": "kolzeyt",
 	"authorSite": "https://github.com/NeeEoo/",
 	"authorEmail": "neeeooprivate@gmail.com",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/NeeEoo/Funkin-Packer/issues"
 	},
-	"homepage": "https://github.com/NeeEoo/Funkin-Packer",
+	"homepage": "https://github.com/KolzeYT/Funkin-Packer",
 	"devDependencies": {
 		"@babel/cli": "^7.26.4",
 		"@babel/core": "^7.26.0",
@@ -145,3 +145,4 @@
 	},
 	"packageManager": "yarn@1.22.22"
 }
+
