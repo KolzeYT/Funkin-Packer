@@ -1,11 +1,11 @@
 {
-	"name": "funkin-packer",
+	"name": "Funkin-Packer",
 	"displayName": "Funkin Packer",
 	"version": "0.1.3 DEV",
 	"description": "Funkin Packer",
 	"type": "module",
-	"url": "https://kolzeyt.github.io/funkin-packer/",
-	"webApp": "https://kolzeyt.github.io/funkin-packer/",
+	"url": "https://kolzeyt.github.io/Funkin-Packer/",
+	"webApp": "https://kolzeyt.github.io/Funkin-Packer/",
 	"main": "src/api/FunkinPackerApi.ts",
 	"private": true,
 	"localizations": [
@@ -145,6 +145,7 @@
 	},
 	"packageManager": "yarn@1.22.22"
 }
+
 
 
 
