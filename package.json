@@ -18,7 +18,7 @@
 	"contributors": [
 		{
 			"name": "LOSER",
-			"homepage": "https://github.com/NeeEoo",
+			"homepage": "https://github.com/KolzeYT",
 			"role": "Developer"
 		}
 	],
@@ -145,5 +145,6 @@
 	},
 	"packageManager": "yarn@1.22.22"
 }
+
 
 
