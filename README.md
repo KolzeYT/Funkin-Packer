@@ -1,6 +1,6 @@
 # Funkin Packer <img src="https://raw.githubusercontent.com/KolzeYT/Funkin-Packer/master/electron/build/icons/128x128.png" width="32" height="32">
 
-Funkin Packer is a tool for creating sprite sheets in various formats. With features including rotation, trimming, multipacking, exporting to various formats (sparrow, json, css, pixi.js, godot, phaser, cocos2d).
+Funkin Packer is a tool for creating sprite sheets in various formats. With features including rotation, trimming, multipwdasdawdasdawdacking, exporting to various formats (sparrow, json, css, pixi.js, godot, phaser, cocos2d).
 
 Web version: [https://KolzeYT.github.io/Funkin-Packer/](https://KolzeYT.github.io/Funkin-Packer/)
 
